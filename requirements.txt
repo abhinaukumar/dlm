@@ -1,0 +1,5 @@
+numpy
+scipy
+PyWavelets
+opencv-python
+progressbar2
